@@ -1,7 +1,4 @@
-# caddytask
-Caddy Server using Golang 
-
-Install and Run Steps:
+Instructions:
 
 1. Git clone Repo ::
    -- git clone https://github.com/sushanth45/caddytask.git
