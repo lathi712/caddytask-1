@@ -4,7 +4,7 @@ Caddy Server using Golang
 Install and Run Steps:
 
 1. Git clone Repo ::
-   -- git clone 
+   -- git clone https://github.com/sushanth45/caddytask.git
 2. Build new Caddy with make ::
    -- make build 
 3. Docker Image with Caddy hosting app ::
