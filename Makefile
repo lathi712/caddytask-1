@@ -1,5 +1,5 @@
 hello:
-	echo "Hello World!"
+	echo "Hello World!!"
 
 compile:
 	go build main.go
